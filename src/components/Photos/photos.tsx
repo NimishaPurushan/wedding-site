@@ -1,8 +1,3 @@
-type Photo = {
-  src: string;
-  alt: string;
-};
-
 type PhotosProps = {
   photos: string[];
 };
