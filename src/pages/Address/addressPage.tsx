@@ -1,5 +1,5 @@
 import { Address } from "../../components/Address";
-import useContentLoader, { loadContent } from "../../utils/contentLoader";
+import useContentLoader from "../../utils/contentLoader";
 
 type AddressProps = {
   venue: string;
@@ -20,13 +20,6 @@ const defaultAddress: AddressProps = {
   mapLink: "",
   description: "",
   caption: "",
-};
-
-const defaultAddresses: Addresses = {
-  Wedding: defaultAddress,
-  Reception: defaultAddress,
-  Sangeeth: defaultAddress,
-  Haldi: defaultAddress,
 };
 
 export const AddressPage = () => {

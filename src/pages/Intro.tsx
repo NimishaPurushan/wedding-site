@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import floralBg from "../assets/background.jpg";
 
 const IntroPage = () => {
