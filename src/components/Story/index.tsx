@@ -1,11 +1,17 @@
 export default function Story({ content }: { content: string }) {
   return (
-    <div className="story text-black text-center px-4 py-8">
-      <h1 className="text-4xl font-bold mb-4">Our Love Story</h1>
-      <p className="mb-2">{content}</p>
-      <p className="mb-2">From that moment, they knew they were meant to be together.</p>
-      <p className="mb-2">After many adventures and cherished moments, they decided to take the next step.</p>
-      <p>Join us as we celebrate our journey and the love that brought us here.</p>
+    <div className="story bg-gradient-to-b from-pink-50 to-white text-gray-800 text-center px-6 py-12 rounded-2xl shadow-md max-w-3xl mx-auto">
+      <h1 className="text-5xl font-extrabold mb-6 text-orange-300 drop-shadow-sm tracking-wide">
+        Our Love Story
+      </h1>
+      <p className="text-lg leading-relaxed text-gray-700 italic max-w-2xl mx-auto">
+        {content.split("\n").map((line, index) => (
+          <span key={index}>
+            {line}
+            <br />
+          </span>
+        ))}
+      </p>
     </div>
   );
 }

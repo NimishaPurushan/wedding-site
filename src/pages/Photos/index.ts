@@ -1,0 +1,1 @@
+export { PhotosPage as default } from "./PhotosPage";

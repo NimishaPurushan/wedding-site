@@ -1,34 +1,48 @@
 {
-    "weddingDate": "2025-11-30T09:00:00Z",
-    "Addresses": {"Wedding": {"venue":"Lake Manor, Chathamma, Cheppanam, Kochi, Kerala 682506, India",
-                            "mapLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15721.995569055602!2d76.3347985!3d9.8923415!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0873001ac261bb%3A0x2d08102b43a48b69!2sTHE%20LAKE%20MANOR!5e0!3m2!1sen!2sca!4v1752774837251!5m2!1sen!2sca",
-                            "description": "The main wedding ceremony venue.",
-                            "caption": "Join us for the wedding ceremony!",
-                            "date": "November 30, 2025 at 9:00 AM"},
-                "Sangeeth": {"venue":"Madathiparambil house, Madathiparambil Rd,Panangad, Ernakulam, Kochi, Kerala 682506, India",
-                            "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.5738340163525!2d76.32782137450731!3d9.886075174985733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b087162f1d15009%3A0x9bb2995fc54579d!2sMadathiparambil%20Rd%2C%20Panangad%2C%20Ernakulam%2C%20Kochi%2C%20Kerala%20682506%2C%20India!5e0!3m2!1sen!2sca!4v1752775333518!5m2!1sen!2sca",
-                            "description": "An evening of music and dance to celebrate our union.",
-                                "caption": "Join us for a night of music and dance!",
-                            "date": "November 29, 2025 at 6:00 PM"},
-                "Haldi": {"venue":"Near, Koombayil Jetty Rd, Panangad, Kochi, Ernakulam, Kerala 682506, India",
-                            "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.5339527374495!2d76.31589847450736!3d9.889410374928941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b087385e449ab69%3A0x972ef81de04b9273!2sSerene%20Waters!5e0!3m2!1sen!2sca!4v1752775732652!5m2!1sen!2sca",
-                            "description": "A traditional pre-wedding ceremony with turmeric.",
-                            "caption": "Join us for the Haldi ceremony!",
-                            "date": "November 28, 2025 at 4:00 PM"
-                        },
-                "Reception": {"venue":"456 Celebration Ave, Festive Town, Country",
-                            "mapLink": "https://www.google.com/maps/place/Serene+Waters/@9.8894104,76.3158985,17z/data=!3m1!4b1!4m9!3m8!1s0x3b087385e449ab69:0x972ef81de04b9273!5m2!4m1!1i2!8m2!3d9.8894051!4d76.3184734!16s%2Fg%2F11rmt_kx2p?hl=en&entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
-                            "description": "A celebration with food, drinks, and dancing.",
-                            "caption": "Celebrate with us at the reception!",
-                            "date": "November 30, 2025 at 9:00 AM"
-                        }
+  "weddingDate": "2025-11-30T09:00:00Z",
+  "Addresses": {
+    "Wedding": {
+      "venue": "Lake Manor, Chathamma, Cheppanam, Kochi, Kerala 682506, India",
+      "mapLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15721.995569055602!2d76.3347985!3d9.8923415!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0873001ac261bb%3A0x2d08102b43a48b69!2sTHE%20LAKE%20MANOR!5e0!3m2!1sen!2sca!4v1752774837251!5m2!1sen!2sca",
+      "description": "The highlight of our journey – a traditional Kerala Hindu wedding by the serene lakeside. Picture the sun reflecting on the water, the air filled with blessings, and pastel-colored sarees and dhotis adding elegance to the setting. Expect heartfelt rituals, laughter, and a promise of forever. Don’t forget to wear your traditional best in soft, graceful tones!",
+      "caption": "Join us for the wedding ceremony!",
+      "date": "November 30, 2025 at 9:00 AM"
     },
-    "countdownMessage": "We can't wait to celebrate with you!",
-    "invitationMessage": "Joisn us for our wedding celebration!",
-    "storyTitle": "Our Love Story",
-    "storyContent": "He was a quiet boy from Kathmandu who had come to Bangalore to study and build a future. She was a fun-loving girl from Kochi, full of life, who moved to Bangalore for work. Their paths crossed at the office — and that’s where everything began to change. At first, she thought he was arrogant, the kind of person who ignored her on purpose. But beneath that quiet exterior was someone thoughtful, kind, and a little shy. Slowly, they became friends. They started talking, laughing, sharing their dreams and hopes — one late conversation at a time. Then the pandemic struck, and life turned upside down. The isolation of living in a Bangalore PG wore her down, and she decided to move back home to Kochi. It was during her final week in the city that he finally made a move and told her how he felt. She had always liked him too, but cultural differences and the fear of how their families would react held her back. Still, when she learned his feelings were real, she decided to take a leap of faith — to give their story a chance.\n\nWhat followed was 1.5 years of long-distance love. He visited her in Kochi twice, and they stayed connected through phone calls, texts, and video chats — keeping each other close across the miles. Together, they made a bold decision: to chase their dreams and move abroad for higher studies.\n\nThey came to Canada. Life as international students was tougher than they imagined — long hours, tight budgets, and the pressure of building a future in a new country. But they held on to each other, becoming each other's anchor through every high and low. They completed their master’s degrees and both landed jobs as software developers.\n\nEventually, they opened up to their families about their relationship. It wasn’t easy — there were moments of doubt, disagreements, and disapproval. But love, patience, and time softened hearts. And slowly, both families came around.\n\nNow, after five years of love, laughter, distance, dreams, and togetherness, they are ready to begin a beautiful new chapter — as husband and wife.",
-    "photosTitle": "Memories",
-    "photosContent": "A collection of our favorite moments together.",
-    "eventsTitle": "Wedding Events",
-    "eventsContent": "Details about the events leading up to the big day."
+    "Gulabi night": {
+      "venue": "Madathiparambil house, Madathiparambil Rd,Panangad, Ernakulam, Kochi, Kerala 682506, India",
+      "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.5738340163525!2d76.32782137450731!3d9.886075174985733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b087162f1d15009%3A0x9bb2995fc54579d!2sMadathiparambil%20Rd%2C%20Panangad%2C%20Ernakulam%2C%20Kochi%2C%20Kerala%20682506%2C%20India!5e0!3m2!1sen!2sca!4v1752775333518!5m2!1sen!2sca",
+      "description": "An evening drenched in music, laughter, and dance – our Gulabi Night is where the fun truly begins! Think vibrant décor, colorful outfits, and beats that will make you want to stay on the dance floor all night. From impromptu performances to endless selfies, this is the night to let loose and celebrate love in full swing. Traditional Indian attire encouraged, the brighter the better!",
+      "caption": "Join us for a night of music and dance!",
+      "date": "November 29, 2025 at 6:00 PM"
+    },
+    "Haldi": {
+      "venue": "Serene Waters, Near, Koombayil Jetty Rd, Panangad, Kochi, Ernakulam, Kerala 682506, India",
+      "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.5339527374495!2d76.31589847450736!3d9.889410374928941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b087385e449ab69%3A0x972ef81de04b9273!2sSerene%20Waters!5e0!3m2!1sen!2sca!4v1752775732652!5m2!1sen!2sca",
+      "description": "Get ready to be drenched in shades of yellow, laughter, and turmeric! The Haldi ceremony is all about playful rituals, smearing turmeric paste on the bride and groom (and maybe on each other if you’re lucky!). It’s an intimate and joyous moment with close family and friends, surrounded by giggles, blessings, and happy chaos. Dress in yellow or light tones to match the glow of the day.",
+      "caption": "Join us for the Haldi ceremony!",
+      "date": "November 28, 2025 at 4:00 PM"
+    },
+    "Cocktail night": {
+      "venue": "Serene Waters, Near, Koombayil Jetty Rd, Panangad, Kochi, Ernakulam, Kerala 682506, India",
+      "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.5339527374495!2d76.31589847450736!3d9.889410374928941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b087385e449ab69%3A0x972ef81de04b9273!2sSerene%20Waters!5e0!3m2!1sen!2sca!4v1752775732652!5m2!1sen!2sca",
+      "description": "Raise a glass and toast to love! Cocktail night will be an evening of elegance, laughter, and memorable conversations. Expect clinking glasses, delicious bites, and a little sparkle in the air. Whether you’re catching up with old friends or making new ones, the night will be full of warmth and joy. Dress sharp – it’s time to celebrate in style!",
+      "caption": "Join us for the Cocktail night!",
+      "date": "November 28, 2025 at 6:00 PM"
+    },
+    "Reception": {
+      "venue": "456 Celebration Ave, Festive Town, Country",
+      "mapLink": "https://www.google.com/maps/place/Serene+Waters/@9.8894104,76.3158985,17z/data=!3m1!4b1!4m9!3m8!1s0x3b087385e449ab69:0x972ef81de04b9273!5m2!4m1!1i2!8m2!3d9.8894051!4d76.3184734!16s%2Fg%2F11rmt_kx2p?hl=en&entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "description": "It’s time to wrap up the celebrations with one grand finale – the Reception! Think endless food, laughter echoing through the hall, and dancing until your feet say no more. This evening is dedicated to fun, togetherness, and creating unforgettable memories with our Nepali family and friends. Dress to impress in formal or semi-formal wear, and come hungry for both food and happiness!",
+      "caption": "Celebrate with us at the reception!",
+      "date": "December 13, 2025 at 5:00 PM"
+    }
+  },
+  "countdownMessage": "We can't wait to celebrate with you!",
+  "invitationMessage": "Join us for our wedding celebration!",
+  "storyTitle": "Our Love Story",
+  "storyContent": "He was a quiet boy from Kathmandu who had come to Bangalore to study and build a future. She was a fun-loving girl from Kochi, full of life, who moved to Bangalore for work. Their paths crossed at the office and that’s where everything began to change. At first, she thought he was arrogant, the kind of person who ignored her on purpose. But beneath that quiet exterior was someone thoughtful, kind, and a little shy.\n\n Slowly, they became friends. They started talking, laughing, sharing their dreams and hopes one late conversation at a time. Then the pandemic struck, and life turned upside down. The isolation of living in a Bangalore PG wore her down, and she decided to move back home to Kochi. It was during her final week in the city that he finally made a move and told her how he felt. She had always liked him too, but cultural differences and the fear of how their families would react held her back. Still, when she learned his feelings were real, she decided to take a leap of faith to give their story a chance.\n\nWhat followed was 1.5 years of long-distance love. He visited her in Kochi twice, and they stayed connected through phone calls, texts, and video chats - keeping each other close across the miles. Together, they made a bold decision: to chase their dreams and move abroad for higher studies.\n\nThey came to Canada. Life as international students was tougher than they imagined - long hours, tight budgets, and the pressure of building a future in a new country. But they held on to each other, becoming each other's anchor through every high and low. They completed their master’s degrees and both landed jobs as software developers.\n\nEventually, they opened up to their families about their relationship. It wasn’t easy - there were moments of doubt, disagreements, and disapproval. But love, patience, and time softened hearts. And slowly, both families came around.\n\nNow, after five years of love, laughter, distance, dreams, and togetherness, they are ready to begin a beautiful new chapter as husband and wife.",
+  "photosTitle": "Memories",
+  "photosContent": "A collection of our favorite moments together.",
+  "eventsTitle": "Wedding Events",
+  "eventsContent": "Details about the events leading up to the big day."
 }

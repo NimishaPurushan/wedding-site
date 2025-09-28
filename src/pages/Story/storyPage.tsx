@@ -1,21 +1,23 @@
-import Layout from "../../components/Layout";
 import Story from "../../components/Story";
-import { loadContent } from "../../utils/contentLoader";
-import { useEffect, useState } from "react";
+import useContentLoader from "../../utils/contentLoader";
 
 export const StoryPage = () => {
-  const [content,setcontent] = useState("");
+  const { content, error, loading } = useContentLoader();
+  const storyContent = content?.storyContent || '';
+  if (loading) {
+    return <div>Loading...</div>;
+  }
 
-  useEffect(() =>{
-    loadContent()
-      .then((data) => setcontent(data.storyContent))
-  }, []);
+  if (error) {
+    return <div>Error: {error}</div>;
+  }
 
   return (
-   <Layout>
-        <div className="flex flex-col items-center justify-center min-h-screen bg-white">
-            <Story content={content} />
-        </div>
-    </Layout>
+    <div
+      id="story"
+      className="flex flex-col items-center justify-center min-h-screen bg-white"
+    >
+      <Story content={storyContent} />
+    </div>
   );
-}
+};

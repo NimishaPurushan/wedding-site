@@ -1,1 +1,1 @@
-export {Photos as default} from './photos';
+export { Photos as default } from "./photos";

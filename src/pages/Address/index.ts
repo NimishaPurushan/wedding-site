@@ -1,1 +1,1 @@
-export { AddressPage as default } from './addressPage';
+export { AddressPage as default } from "./addressPage";

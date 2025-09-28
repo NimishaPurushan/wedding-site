@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 
-
 export const Countdown = () => {
   const targetDate = new Date("2025-11-30T09:00:00Z");
 
@@ -42,11 +41,15 @@ export const Countdown = () => {
         </div>
         <div className="flex flex-col items-center">
           <span>{pad(timeLeft.minutes)}</span>
-          <span className="text-sm font-medium text-gray-300 mt-1">Minutes</span>
+          <span className="text-sm font-medium text-gray-300 mt-1">
+            Minutes
+          </span>
         </div>
         <div className="flex flex-col items-center">
           <span>{pad(timeLeft.seconds)}</span>
-          <span className="text-sm font-medium text-gray-300 mt-1">Seconds</span>
+          <span className="text-sm font-medium text-gray-300 mt-1">
+            Seconds
+          </span>
         </div>
       </div>
     </div>
