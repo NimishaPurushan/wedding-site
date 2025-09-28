@@ -19,9 +19,7 @@ export const Address = (address: AddressProps) => {
         </p>
 
         {/* Venue with bold, standout style */}
-        <p className="text-xl font-semibold text-gray-600">
-          {address.venue}
-        </p>
+        <p className="text-xl font-semibold text-gray-600">{address.venue}</p>
       </section>
       <section className="flex-1 min-w-[350px] max-w-[500px]">
         <iframe

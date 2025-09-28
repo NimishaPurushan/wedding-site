@@ -3,7 +3,7 @@ import useContentLoader from "../../utils/contentLoader";
 
 export const StoryPage = () => {
   const { content, error, loading } = useContentLoader();
-  const storyContent = content?.storyContent || '';
+  const storyContent = content?.storyContent || "";
   if (loading) {
     return <div>Loading...</div>;
   }
