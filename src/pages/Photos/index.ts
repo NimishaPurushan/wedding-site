@@ -1,1 +1,1 @@
-export { PhotosPage as default } from "./PhotosPage";
+export { PhotosPage as default } from "./photosPage";

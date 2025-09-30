@@ -1,1 +1,1 @@
-export { StoryPage as default } from "./StoryPage";
+export { StoryPage as default } from "./storyPage";
