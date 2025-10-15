@@ -5,13 +5,13 @@ import { useState } from "react";
 
 type Photo = { url: string; title?: string | null };
 
+const textStyle = {
+    textDecoration: "none",
+    color: "#bc8729",
+    fontWeight: "bold",
+  };
+
 export const PhotosPage = () => {
-  // const photos = [
-  //     // Add your photo URLs here
-  //     "photos/IMG_9893.jpeg",
-  //     "photos/IMG_9895.jpeg",
-  //     "photos/IMG_9897.jpeg"
-  // ];
 
   const [photos, setPhotos] = useState<Photo[]>([]);
   const [loading, setLoading] = useState(true);
@@ -22,7 +22,7 @@ export const PhotosPage = () => {
     (async () => {
       try {
         const data = await fetchImages();
-        console.log("Fetched photos:", data);
+        
         if (isMounted) {
           // filter out nulls from fetchImages()
           if (data) {
@@ -49,7 +49,7 @@ export const PhotosPage = () => {
       className="flex flex-col items-center justify-center min-h-screen bg-white"
     >
       <div className="photos text-black text-center px-4 py-8">
-        <h1 className="text-4xl font-bold mb-6">Our Photos</h1>
+        <h1 className="text-4xl font-bold mb-6" style={textStyle}>Our Photos</h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           {photos.map((photo, index) => (
             <Photos key={index} url={photo.url} />

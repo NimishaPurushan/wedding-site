@@ -45,11 +45,11 @@ export const NavBar = () => {
               Our Story
             </Link>
           </Button>
-          <Button color="inherit">
+          {/* <Button color="inherit">
             <Link to="/rsvp" style={linkStyle}>
               RSVP
             </Link>
-          </Button>
+          </Button> */}
         </Toolbar>
       </AppBar>
     </Slide>

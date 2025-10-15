@@ -31,7 +31,7 @@ export const AddressPage = () => {
     return <div>Error: {error}</div>;
   }
   const addresses = content?.Addresses || defaultAddress;
-  console.log("Addresses:", addresses);
+
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-white">
       {addresses &&
@@ -39,7 +39,7 @@ export const AddressPage = () => {
           const address = addresses[key as keyof Addresses];
           return (
             <div key={key} className="mb-8">
-              <h2 className="text-2xl font-bold text-gray-800 mb-4">{key}</h2>
+              <h2 className="text-2xl font-bold text-orange-800 mb-4">{key}</h2>
               <Address
                 venue={address.venue}
                 mapLink={address.mapLink}

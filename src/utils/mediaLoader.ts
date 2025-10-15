@@ -2,16 +2,13 @@
 import { createClient } from "contentful";
 
 const client = createClient({
-  // space: "pdfvgcc45wpl",
-  // accessToken: "0lLCkq5BKjg104P5pwUHoMRdMynd3cdvIePaGaAP5xc",
-
   space: import.meta.env.VITE_SPACE_ID,
   accessToken: import.meta.env.VITE_CONTENTFUL_DELIVERY_ACCESS_TOKEN,
 });
 
 export async function fetchImages() {
   const entries = await client.getAssets();
-  console.log("Fetched entries:", entries);
+  
 
   return entries.items.map((item) => {
     const image = item.fields.file; // Assuming 'image' is the asset field
